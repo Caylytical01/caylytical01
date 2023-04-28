@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **GRC**
 
-- 🤝 I’m looking for help with **OSINT projects**
-
 - 📝 I regularly write articles on [https://caylytical.hashnode.dev/](https://caylytical.hashnode.dev/)
 
 - 💬 Ask me about **privacy, security, and OSINT**
