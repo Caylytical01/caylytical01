@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **GRC**
 
+- 💻 My portfolio [caylytical.tech](caylytical.tech)
+
 - 📝 I regularly write articles on [https://caylytical.hashnode.dev/](https://caylytical.hashnode.dev/)
 
 - 💬 Ask me about **privacy, security, and OSINT**
