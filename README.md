@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kiauna</h1>
-<h3 align="center">A innovative technologist passionate about cybersecurity and visual design</h3>
+<h3 align="center">An innovative technologist passionate about cybersecurity and visual design</h3>
 
 - 🔭 I’m currently working on **Cyversity Cybersecurity Training**
 
