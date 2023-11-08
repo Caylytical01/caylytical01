@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kiauna</h1>
 <h3 align="center">An innovative technologist passionate about cybersecurity and visual design</h3>
 
-- 🔭 I’m currently working on **Cyversity Cybersecurity Training**
+- 🔭 I’m currently working on **Red Team Training Program via BGH**
 
-- 🌱 I’m currently learning **GRC**
+- 🌱 I’m currently learning Application Security via Secure Innovation 
 
 - 💻 My portfolio [caylytical.tech](caylytical.tech)
 
