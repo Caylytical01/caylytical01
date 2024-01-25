@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kiauna</h1>
-<h3 align="center">An innovative technologist passionate about cybersecurity and visual design</h3>
+<h3 align="center">An innovative technologist passionate about cybersecurity, development, and visual design</h3>
 
 - 🔭 I’m currently working on **Red Team Training Program via BGH**
 
-- 🌱 I’m currently learning Application Security via Secure Innovation 
+- 🌱 I’m currently working on learning DevSecOps (Orange Team)
 
-- 💻 My portfolio [caylytical.tech](caylytical.tech)
+- 💻 My portfolio [[caylytical.typedream.app](https://caylytical.typedream.app/)
 
 - 📝 I regularly write articles on [https://caylytical.hashnode.dev/](https://caylytical.hashnode.dev/)
 
-- 💬 Ask me about **privacy, security, and OSINT**
+- 💬 Ask me about **DevSecOps, App Sec, Privacy, OSINT**
 
 
 <h3 align="left">Languages and Tools:</h3>
