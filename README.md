@@ -7,7 +7,9 @@
 
 - 💻 My portfolio [[caylytical.typedream.app](https://caylytical.typedream.app/)
 
-- 📝 I regularly write articles on [https://caylytical.hashnode.dev/](https://caylytical.hashnode.dev/)
+- 👨‍💻 My coding projects are also available at [https://replit.com/@caylytical](https://replit.com/@caylytical)
+
+- 📝 I occasionally write articles on [https://caylytical.hashnode.dev/](https://caylytical.hashnode.dev/)
 
 - 💬 Ask me about **DevSecOps, App Sec, Privacy, OSINT**
 
